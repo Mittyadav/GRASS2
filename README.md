@@ -41,6 +41,11 @@ This repository contains the code for `GRASS`, a bot designed to establish WebSo
    npm install
    ```
 
+4. Configure your accounts
+   ```bash
+   cp -r accounts/proxy_list_tmp.js proxy_list.txt && cp -r accounts/uid.txt uid.txt
+   ```
+
 ---
 
 ## USAGE
