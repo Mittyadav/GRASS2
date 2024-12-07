@@ -16,7 +16,7 @@ This repository contains the code for `GRASS`, a bot designed to establish WebSo
 
 - **Single Account With Multiple Worker Based On Proxy**
 - **Proxy Support (HTTP / SOCKS5)**
-- **Auto Run GRASS Node**
+- **Auto Run Grass Node**
 - **Server Proxy**
 
 ---
@@ -65,7 +65,7 @@ This repository contains the code for `GRASS`, a bot designed to establish WebSo
    123123123
    ```
 
-3. To specify proxies, create a file named `proxy-list.txt` in the project directory and add your desired proxy URLs, following the same new-line format, like this:
+3. To specify proxies, create a file named `proxy_list.js` in the project directory and add your desired proxy URLs, following the same new-line format, like this:
 
    ```text
    http://username:password@hostname:port
@@ -75,7 +75,7 @@ This repository contains the code for `GRASS`, a bot designed to establish WebSo
 4. To run the `GRASS`, execute the following command in your terminal:
 
    ```bash
-   npm start
+   npm run start
    ```
 
 ---
