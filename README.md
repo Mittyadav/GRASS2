@@ -26,13 +26,13 @@ This repository contains the code for `GRASS`, a bot designed to establish WebSo
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Rambeboy/GRASS.git
+   git clone https://github.com/Mittyadav/GRASS2.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd GRASS
+   cd GRASS2
    ```
 
 3. Install the required dependencies using npm:
